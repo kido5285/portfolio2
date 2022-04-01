@@ -50,6 +50,10 @@ const Skills = () => {
                         <span>Python</span>
                     </div>
                     <div className="tech">
+                        <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" alt="redux" width="50px" height="50px"/>
+                        <span>Redux</span>
+                    </div>
+                    <div className="tech">
                         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flask/flask-original.svg" alt="flask" width="50px" height="50px"/>
                         <span>Flask</span>
                     </div>

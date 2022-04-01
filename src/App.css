@@ -443,6 +443,7 @@ body {
 .projects .content {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
   padding: 40px;
   max-width: 100%;
   width: 1400px;
@@ -454,6 +455,7 @@ body {
   max-width: 100%;
   background-color: #fff;
   outline: 2px solid #000;
+  margin: 20px;
 }
 
 .projects .project .image {
